@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My contact details:
+  - email: gurtseiv.egor@gmail.com
+  - tel: +7 (914) 964-39-23
+
 <!--
 **EgorGurtsiev/EgorGurtsiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
