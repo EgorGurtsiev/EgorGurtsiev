@@ -3,8 +3,8 @@
 My contact details:
   - email: gurtseiv.egor@gmail.com
   - tel: +7 (914) 964-39-23
-<img stc='https://drive.google.com/file/d/1nNNZFTFy8REVwEXLB-7Q_NUlU9I5AFgb/view?usp=sharing' alt="My fiasko logo"/>
 
+![my fiasko logo](https://github.com/EgorGurtsiev/EgorGurtsiev/blob/8abf585f0f6ff676346211ea158399dcda1a41af/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%201@4x.png)
 
 <!--
 **EgorGurtsiev/EgorGurtsiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
